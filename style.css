@@ -1,0 +1,55 @@
+p {
+  width: 400px;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  background-color: rgb(181, 223, 217);
+  padding: 10px;
+}
+
+tfoot,
+thead {
+  color: blue;
+}
+tr :hover {
+  background-color: crimson;
+}
+a {
+  text-decoration: none;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15rem;
+}
+img {
+  width: 35rem;
+  height: 20rem;
+}
+video {
+  width: auto;
+  height: auto;
+}
+ol {
+  list-style: none;
+  color: blue;
+}
+style .test1 {
+  background-color: rgb(243, 205, 205);
+  color: blue;
+}
+.test2 {
+  background-color: rgb(223, 209, 236);
+}
+.span1 {
+  color: brown;
+  font-weight: bold;
+}
+.span2 {
+  color: green;
+  font-weight: bold;
+}
